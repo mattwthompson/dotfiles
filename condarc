@@ -1,0 +1,7 @@
+channels:
+  - choderalab
+  - mosdef
+  - omnia
+  - glotzer
+  - conda-forge
+  - defaults

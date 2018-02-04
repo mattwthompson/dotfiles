@@ -1,0 +1,6 @@
+color Display Background white
+color Display FPS black
+color Axes Labels black
+display depthcue off
+display projection orthographic
+menu main on

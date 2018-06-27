@@ -8,6 +8,10 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 export PS1='[\h] \w\n$(__git_ps1 "(%s)")$ '
 export PATH="//anaconda/bin:$PATH"
 
+# remote machines
+export RE=user@remote.machine.com
+alias remote='ssh user@remote.machine.com'
+
 # aliases
 alias xmgrace='xmgrace -free'
 alias vi='vim'

@@ -19,6 +19,7 @@ alias lspy='ls -l | grep py'
 alias vmd='/Applications/VMD\ 1.9.1.app/Contents/MacOS/startup.command'
 alias preview='open -a Preview'
 alias rscp='rsync -avzhe ssh --progress'
+alias rm='rmtrash' # brew install rmtrash
 
 # environment variables
 export MP_EDITOR='/usr/bin/vim'

@@ -272,6 +272,7 @@ axes.labelsize      : large
                                             # as list of string colorspecs:
                                             # single letter, long name, or
                                             # web-style hex
+axes.color_cycle    : '#568CEC', '#27AE60', '#F1C40F', '#A93226', 'black'
 #axes.xmargin        : 0  # x margin.  See `axes.Axes.margins`
 #axes.ymargin        : 0  # y margin See `axes.Axes.margins`
 

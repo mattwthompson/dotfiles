@@ -20,6 +20,7 @@ alias vmd='/Applications/VMD\ 1.9.1.app/Contents/MacOS/startup.command'
 alias preview='open -a Preview'
 alias rscp='rsync -avzhe ssh --progress'
 alias rm='rmtrash' # brew install rmtrash
+alias diff='colordiff' # brew install colordiff
 
 # environment variables
 export MP_EDITOR='/usr/bin/vim'

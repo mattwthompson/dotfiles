@@ -1,7 +1,8 @@
 channels:
-  - choderalab
   - mosdef
   - omnia
   - glotzer
+  - bioconda
+  - choderalab
   - conda-forge
   - defaults

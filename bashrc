@@ -15,6 +15,7 @@ alias remote='ssh user@remote.machine.com'
 # aliases
 alias xmgrace='xmgrace -free'
 alias vi='vim'
+alias vip='vi -p'
 alias lspy='ls -l | grep py'
 alias vmd='/Applications/VMD\ 1.9.1.app/Contents/MacOS/startup.command'
 alias preview='open -a Preview'

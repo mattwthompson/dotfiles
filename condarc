@@ -1,8 +1,10 @@
 channels:
+  - conda-forge
+  - bioconda
+  - defaults
   - mosdef
   - omnia
   - glotzer
-  - bioconda
-  - choderalab
-  - conda-forge
-  - defaults
+# see https://github.com/bioconda/bioconda-recipes/issues/13774
+sat_solver: pycryptosat
+channel_priority: strict

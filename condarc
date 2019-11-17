@@ -4,6 +4,3 @@ channels:
   - mosdef
   - omnia
   - glotzer
-# see https://github.com/bioconda/bioconda-recipes/issues/13774
-sat_solver: pycryptosat
-channel_priority: strict

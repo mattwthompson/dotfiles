@@ -1,6 +1,7 @@
+# I now no longer use  a ~/.condarc file, but if I did, this is what it would
+# look like:
 channels:
   - conda-forge
+  - omnia
   - defaults
   - mosdef
-  - omnia
-  - glotzer
